@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hello/أهلاً/Salut/Hola
 # 💫 About Me:
 I am currently working on an app idea I had after working on my most recent website. <br>I am still a student and super interested in learning and open to new topics. <br>I like scuba diving, reading, and cooking
 
