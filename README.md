@@ -1,7 +1,8 @@
 # Hello/أهلاً/Salut/Hola
 # 💫 About Me:
 I am currently working on an app idea I had after working on my most recent website. <br>I am still a student and super interested in learning and open to new topics. <br>I like scuba diving, reading, and cooking
-
+My portfolio:
+https://portfolio-gallery-tau.vercel.app/
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sami.akhnoukh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Sami Akhnoukh) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/akhnoukhs) 
